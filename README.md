@@ -1,1 +1,1 @@
-Here, we provide the codes and data to reproduce the results of our manuscript titled "Noise-Assisted Feedback Control of Open Quantum Systems for Ground State Properties", which we put on arXiv recently. Here is the link, https://arxiv.org/abs/2510.18984.
+Here, we provide the codes and data to reproduce the results of our manuscript titled "Noise-Assisted Feedback Control of Open Quantum Systems for Ground State Properties". Here is the link, https://arxiv.org/abs/2510.18984.
