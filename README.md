@@ -9,6 +9,7 @@ Please create an environment and download all the requirements with the command:
 
 Files:
 ```NAFQA_5q.ipynb``` and ```data_5q```: To reproduce the Figs. 2 and 3
+
 ```NAFQA _TFIM.ipynb```, ```NAFQA_5q_beta_dt.ipynb``` and ```data```: To reproduce the Figs. 4 and 5
 
 References:
