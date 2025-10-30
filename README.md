@@ -11,4 +11,5 @@ Files:
 
 
 References:
+
 Kasturi Ranjan Swain, Rajesh K. Malla, and Adolfo del Campo, "Noise-Assisted Feedback Control of Open Quantum Systems for Ground State Properties", https://arxiv.org/abs/2510.18984.
