@@ -2,19 +2,18 @@ In this work, we present a method for simulating the dynamics of open quantum sy
 
 In summary, we propose a novel approach to dynamically engineer controlled dissipation to determine ground-state properties at the end of the protocol. Through numerical simulations, we demonstrate that our protocol can calculate observables at a faster rate than noisy and ideal closed-system simulations. While noisy simulations typically fail to converge and degrade in performance as noise accumulates over time, our method exhibits an improved convergence, albeit with an increased sampling overhead. As other error mitigation strategies, our approach has an exponential overhead in certain parameters, and its applicability is limited to physical scenarios with a low number of decay channels.
 
-![Figure](Plots/schematicv1.pdf)
+![Figure](./Plots/schematicv1.pdf)
 
-Requirements: 
+## Requirements: 
 
 Please create an environment and download all the requirements with the command: 
 ```python -m pip install -r requirements.txt```
 
-Files:
+## Files:
 
-```NAFQA_5q.ipynb``` and ```data_5q```: To reproduce the Figs. 2 and 3
+`NAFQA_5q.ipynb` and `data_5q`: To reproduce the Figs. 2 and 3
+`NAFQA _TFIM.ipynb`, `NAFQA_5q_beta_dt.ipynb` and ```data```: To reproduce the Figs. 4 and 5
 
-```NAFQA _TFIM.ipynb```, ```NAFQA_5q_beta_dt.ipynb``` and ```data```: To reproduce the Figs. 4 and 5
+## References:
 
-References:
-
-Kasturi Ranjan Swain, Rajesh K. Malla, and Adolfo del Campo, "Noise-Assisted Feedback Control of Open Quantum Systems for Ground State Properties", https://arxiv.org/abs/2510.18984.
+Kasturi Ranjan Swain, Rajesh K. Malla, and Adolfo del Campo, "Noise-Assisted Feedback Control of Open Quantum Systems for Ground State Properties", [[arXiv:2510.18984](https://arxiv.org/abs/2510.18984)].
