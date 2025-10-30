@@ -2,7 +2,7 @@ In this work, we present a method for simulating the dynamics of open quantum sy
 
 In summary, we propose a novel approach to dynamically engineer controlled dissipation to determine ground-state properties at the end of the protocol. Through numerical simulations, we demonstrate that our protocol can calculate observables at a faster rate than noisy and ideal closed-system simulations. While noisy simulations typically fail to converge and degrade in performance as noise accumulates over time, our method exhibits an improved convergence, albeit with an increased sampling overhead. As other error mitigation strategies, our approach has an exponential overhead in certain parameters, and its applicability is limited to physical scenarios with a low number of decay channels.
 
-![Alt text](/Users/kasturiranjanswain/Downloads/NAFQA_submission/final_plots/schematicv1.pdf)
+![Alt text](/Plots/schematicv1.pdf)
 
 Requirements: 
 
